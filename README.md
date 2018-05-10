@@ -9,7 +9,7 @@ Git Best Tools Hacking For Kali Linux 2018
 
 ### chmod +x gittool.sh
 
-./gittool.sh
+### ./gittool.sh
 
 ### ScreenShot 
 
